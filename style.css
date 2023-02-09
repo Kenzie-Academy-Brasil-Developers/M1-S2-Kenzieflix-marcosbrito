@@ -29,6 +29,8 @@ main{
 
 .arredondar{
     border-radius: 10px;
+    width: 160px;
+    height: 160px;
 }
 
 .figure-add{
